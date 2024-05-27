@@ -1,2 +1,2 @@
-# Podcastminining
-Podcast opinion mining, who is  the next president?
+# PodPresPred
+DATA228 Podcast Presidential Prediction
